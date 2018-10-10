@@ -12,3 +12,9 @@ ngrams\.txt
 unk-corpus\.txt
 
 imdb_data\.zip
+
+brown/
+
+*.zip
+
+*.txt
